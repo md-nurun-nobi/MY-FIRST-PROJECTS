@@ -1,0 +1,40 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    margin-top: ;
+
+}
+
+#counter{
+    font-weight: 900;
+    font-size: 90px;
+    margin-top: 0;
+    margin-bottom: 10px;
+
+}
+
+#plusBtn{
+    padding: 20px;
+    margin-right: 3px;
+
+
+}
+
+#minusBtn{
+    padding: 20px;
+    margin-left: 3px;
+    width: 64.45px;
+}
+button{
+    margin-top: 0px;
+    margin-top: -10px;
+    background-color: aquamarine;
+    font-size: 35px;
+    border-radius: 5px;
+}
+
+button:disabled{
+    cursor: not-allowed;
+    opacity: 0.5;
+    display:;
+}
