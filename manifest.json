@@ -2,19 +2,19 @@
   "name": "MY FIRST PROJECT",
   "short_name": "MyApp",
   "start_url": "/MY-FIRST-PROJECTS/",
-  "scope": "/MY-FIRST-PROJECTS/"
+  "scope": "/MY-FIRST-PROJECTS/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
   "icons": [
     {
       "src": "image_8bfef8d9.png",
-      "sizes": "image_999b6572.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
       "src": "image_999b6572.png",
-      "sizes": "image_8bfef8d9.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
