@@ -4,7 +4,7 @@
   "start_url": "/MY-FIRST-PROJECTS/",
   "scope": "/MY-FIRST-PROJECTS/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "red",
   "theme_color": "#2196f3",
   "icons": [
     {
