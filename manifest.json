@@ -5,7 +5,7 @@
   "scope": "/MY-FIRST-PROJECTS/",
   "display": "standalone",
   "background_color": "red",
-  "theme_color": "blue",
+  "theme_color": "white",
   "icons": [
     {
       "src": "image_8bfef8d9.png",
